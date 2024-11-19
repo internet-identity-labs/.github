@@ -1,6 +1,6 @@
 <div style="display:flex;flex-direction:column;">
   <a href="https://nfid.one/">
-    <img src="./nfid.png" alt="Internet Identity Labs repo" role="presentation"/>
+    <img src="https://pbs.twimg.com/profile_banners/1435924115664293890/1720618513/1500x500" alt="Internet Identity Labs repo" role="presentation"/>
   </a>
 
 <br/>
